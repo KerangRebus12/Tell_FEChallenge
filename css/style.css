@@ -1,0 +1,115 @@
+body{
+    background-image: url("../img/bg-baloon.jpg");
+}
+@font-face {
+    font-family: Montserrat;
+    src: url(Montserrat-Medium.ttf);
+}
+
+#judul{
+    padding-top: 60px;
+}
+#para{
+    padding-bottom: 60px;
+}
+#kategori{
+    display: inline;
+    text-align: left;
+}
+#teks1{
+    display: inline;
+    text-align: right;
+    padding-left: 230px;
+}
+.row{
+    margin: 5px;
+}
+#box1{  
+    font-size: small;
+    margin: 5px;
+    display: inline-block;
+    text-align: center;
+    padding-top: 40px;
+    width:70px;
+    height:70px;
+    border-radius: 5px;
+    box-shadow: 1px 3px 6px rgba(0, 0, 0, 0.466);
+	background:#F9BDBD;
+}
+#box2{
+    font-size: small;
+    margin: 5px;
+    display: inline-block;
+    text-align: center;
+    padding-top: 40px;
+    width:70px;
+    height:70px;
+    border-radius: 5px;
+    box-shadow: 1px 3px 6px rgba(0, 0, 0, 0.466);
+	background:#A09DC8;
+}
+#box3{
+    font-size: small;
+    margin: 5px;
+    display: inline-block;
+    text-align: center;
+    padding-top: 40px;
+    width:70px;
+    height:70px;
+    border-radius: 5px;
+    box-shadow: 1px 3px 6px rgba(0, 0, 0, 0.466);
+	background:#F7E46A;
+}
+#box4{
+    font-size: small;
+    margin: 5px;
+    display: inline-block;
+    text-align: center;
+    padding-top: 40px;
+    width:70px;
+    height:70px;
+    border-radius: 5px;
+    box-shadow: 1px 3px 6px rgba(0, 0, 0, 0.466);
+	background:#7B7B7B;
+}
+#box5{
+    font-size: small;
+    margin: 5px;
+    display: inline-block;
+    text-align: center;
+    padding-top: 40px;
+    width:70px;
+    height:70px;
+    border-radius: 5px;
+    box-shadow: 1px 3px 6px rgba(0, 0, 0, 0.466);
+	background:#FF9A9A;
+}
+
+.form-control{
+    margin-top: 10px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.466);
+    width: 300px;
+    vertical-align: middle;
+    white-space: nowrap;
+    position: relative;
+}
+form .form-control{width:100%;}
+#latest{
+    padding-top: 20px;
+}
+#story{
+    display: inline-block;
+    text-align: left;
+    padding-bottom: 0px;
+    font-family: 'Montserrat';
+}
+#icon{
+    position: absolute;
+}
+#time{
+    padding-top: 1px;
+    text-align: left;
+    font-size: small;
+    color: rgba(14, 13, 13, 0.63);
+}
